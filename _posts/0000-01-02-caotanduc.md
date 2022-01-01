@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Caotanduc is the best human being.
 Use the left arrow to go back!
